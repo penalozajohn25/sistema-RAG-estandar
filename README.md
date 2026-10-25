@@ -256,6 +256,8 @@ Puedes conectarlos o eliminarlos según tus necesidades.
 .
 ├── README.md
 ├── Sistema RAG de Estandar.json   # Workflow exportado desde n8n
+├── contrato_laboral_ventas.pdf    # Documento de Prueba
+├── drive n8n                      # Documentos de carga en drive
 └── sql/
     └── setup.sql                  # Script de creación de tablas (opcional)
 ```
