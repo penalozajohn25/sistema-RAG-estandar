@@ -264,10 +264,6 @@ Para exportar el workflow desde n8n: abre el workflow → menú **(...)** → **
 
 ---
 
-## Licencia
-
-Define aquí la licencia de tu proyecto (por ejemplo, MIT).
-
 ## Autor
 
 **John Peñaloza**
