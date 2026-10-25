@@ -172,7 +172,7 @@ CREATE INDEX IF NOT EXISTS idx_n8n_vectors_file_id
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/<tu-repositorio>.git
+   https://github.com/penalozajohn25/sistema-RAG-estandar.git
    ```
 2. En n8n, ve a **Workflows → Import from File** y selecciona `Sistema RAG de Estandar.json`.
 3. Ejecuta el script SQL de la sección anterior.
